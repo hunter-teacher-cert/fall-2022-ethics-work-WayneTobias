@@ -1,4 +1,4 @@
-# binsearch.py
+# binsearch.py  
 # CSCI 77800
 # consulted: ThinkPython
 # Binary Search
