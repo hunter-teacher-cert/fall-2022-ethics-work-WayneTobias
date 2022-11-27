@@ -1,0 +1,12 @@
+Tobias, W
+
+My solution was more complicated than I thought after drawing it out on paper.  
+This led me to think that the simpler solution is better even if it might not feel like the most fair application.
+I wanted to seat priority customers, then seat groups of any size up to six (the number of seats in a row), and then single seat 
+customers as filler between the taken seats.  If there were parties greater than 3, they could be split into the next row but
+still remain close to their travel companions.
+
+In the new solution the decision was to limit the accomodation to groups of 2 and seat them next to each other.  A much easier solution
+to implement.  The other part of the solution would be to fill seats as the orders came in.  Allow customers the next set of available seats only.
+Priority can select the next window or aisle if they desire, but the regular customers are assigned the next single or group that best fits.
+ 
